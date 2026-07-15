@@ -2,19 +2,25 @@ products = [
     {
         "id": 1,
         "title": "Mobile Phone",
-        "price": 19.99,
-        "country": "USA"
+        "price": 1999,
+        "count": 5
     },
     {
         "id": 2,
         "title": "Laptop",
-        "price": 999.99,
-        "country": "USA"
+        "price": 999,
+        "count": 10
     },
     {
         "id": 3,
         "title": "Tablet",
-        "price": 29.99,
-        "country": "Canada"
+        "price": 2999,
+        "count": 100
+    },
+    {
+        "id": 4,
+        "title": "Smart Watch",
+        "price": 199,
+        "count": 25
     }
 ]
